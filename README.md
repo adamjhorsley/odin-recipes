@@ -1,1 +1,1 @@
-This is my first Odin Project.
+A list of my favourite meals and how to make them.
